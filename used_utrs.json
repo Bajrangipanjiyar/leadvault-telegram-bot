@@ -1,0 +1,18 @@
+{
+  "used_utrs": [
+    {
+      "utr": "430812345678",
+      "customer_id": 7854748403,
+      "name": "Om",
+      "username": "No_Username",
+      "timestamp": "2026-11-02 15:04:06"
+    },
+    {
+      "utr": "430812345675",
+      "customer_id": 7854748403,
+      "name": "Om",
+      "username": "No_Username",
+      "timestamp": "2026-11-02 15:05:11"
+    }
+  ]
+}
